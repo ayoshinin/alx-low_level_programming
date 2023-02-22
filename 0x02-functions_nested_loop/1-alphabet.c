@@ -2,6 +2,8 @@
 
 /**
  * print_alphabet - prints every chararter of the alphabet
+ *
+ * Return: always 0;
  */
 
 void print_alphabet(void)
