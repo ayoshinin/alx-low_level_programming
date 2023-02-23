@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - prints every chararter of the alphabet
  *
  * Return: always 0
  */
