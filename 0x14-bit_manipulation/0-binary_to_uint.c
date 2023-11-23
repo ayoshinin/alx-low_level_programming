@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * binary_to_uint -  It convert a binary number to an unsigned int
+ * binary_to_uint - convert a binary number to an unsigned int
  * @b: string of binary digits/string of bits
  * Return: converted decimal number, 0 on failure
  */
@@ -34,3 +34,4 @@ unsigned int binary_to_uint(const char *b)
 	}
 
 	return (decimal);
+}
